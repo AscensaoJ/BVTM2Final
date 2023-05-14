@@ -1,0 +1,8 @@
+https://pipoya.itch.io/
+	player sprites, terrain and fence tiles
+	
+https://mythril-age.itch.io/
+	building tiles
+
+https://github.com/AscensaoJ
+	coding
